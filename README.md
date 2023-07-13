@@ -7,3 +7,5 @@ The plugin converts your Figma color variables into code format.
 - Launch the plugin
 - Select your collection
 - Copy or download code
+
+Plugin link : https://www.figma.com/community/plugin/1254490527214920863
